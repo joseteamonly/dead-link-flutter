@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joseotaloraporras.micelanios",
+      "sha256_cert_fingerprints":
+      ["5C:5A:9C:99:33:25:CF:F4:9B:67:8D:4A:49:3D:34:12:C9:3E:FD:C7:54:C2:B8:EB:9C:83:7A:9E:B7:92:DD:E0"]
+    }
+}]
