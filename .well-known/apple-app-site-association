@@ -1,11 +1,25 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": "8YBC822KBA.com.joseotaloraporras.micelanios",
-        "paths": ["*"]
-      }
-    ]
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [
+            "8YBC822KBA.com.joseotaloraporras.micelanios"
+          ],
+          "paths": [
+            "*"
+          ],
+          "components": [
+            {
+              "/": "/*"
+            }
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "8YBC822KBA.com.joseotaloraporras.micelanios"
+      ]
+    }
   }
-}
